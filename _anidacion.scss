@@ -1,0 +1,13 @@
+//anidacion
+
+.main__container {
+    .div__left, .div__center, .div__right {
+        width: 33%;
+    }
+
+    .div__boxleft, .div__boxright, .div__boxcenter {
+        width: 65%;
+        padding: 30px;
+        border-radius: 6px;
+    }
+}
